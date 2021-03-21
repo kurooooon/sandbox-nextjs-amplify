@@ -1,5 +1,5 @@
 {
-  "name": "aws-graphql",
+  "name": "nextjs-amplify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-amplify/api": "^3.2.28",
+    "@aws-amplify/core": "^3.8.20",
+    "@aws-amplify/pubsub": "^3.2.26",
     "next": "10.0.9",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sandboxnextjs-dev-134942-authRole",
+      "UnauthRoleArn": "arn:aws:iam::053356367958:role/amplify-sandboxnextjs-dev-134942-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::053356367958:role/amplify-sandboxnextjs-dev-134942-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-sandboxnextjs-dev-134942-deployment",
+      "UnauthRoleName": "amplify-sandboxnextjs-dev-134942-unauthRole",
+      "StackName": "amplify-sandboxnextjs-dev-134942",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:053356367958:stack/amplify-sandboxnextjs-dev-134942/db826100-8a00-11eb-8b1b-06434aa0b4f5",
+      "AmplifyAppId": "d98bjzkaxewrq"
+    }
+  }
+}
